@@ -1,9 +1,9 @@
 """
 README.md
 
-# Housing Inequity 2023 Exploratory Analysis
+# Housing Inequity 2008-2023 Exploratory Analysis
 
-This document outlines the purpose and scope of the exploratory data analysis (EDA) conducted on the 2023 housing data, with a specific focus on identifying and understanding housing inequities. This analysis is based on data from the **Public Use Database (PUDB)** provided by the Federal Housing Finance Agency (FHFA) and other relevant sources.
+This document outlines the purpose and scope of the exploratory data analysis (EDA) conducted on the 2008-2023 housing data, with a specific focus on identifying and understanding housing inequities. This analysis is based on data from the **Public Use Database (PUDB)** provided by the Federal Housing Finance Agency (FHFA) and other relevant sources.
 
 ## Purpose
 
